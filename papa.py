@@ -6,4 +6,4 @@ r = 4
 t = 5
 y = 6
 k = 7
-print(q+w+e+r+t+y+ k)
+print(q+w+e+r+t+y+k)
