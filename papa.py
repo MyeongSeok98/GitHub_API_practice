@@ -5,5 +5,4 @@ e = 3
 r = 4
 t = 5
 y = 6
-a = 7
-print(q+w+e+r+t+y+a)
+print(q+w+e+r+t+y)
