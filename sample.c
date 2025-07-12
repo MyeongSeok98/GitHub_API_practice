@@ -20,6 +20,4 @@ static void print_reverse(const char *str) {
         putchar(str[len - 1 - i]);
     }
     putchar('\n');
-    //asdfasdfsdafㄴ
-    // 결과ㅁㅁ  
 }
