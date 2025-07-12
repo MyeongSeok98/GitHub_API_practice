@@ -21,5 +21,5 @@ static void print_reverse(const char *str) {
     }
     putchar('\n');
 
-    // 결과
+    // 결과ㅁㅁ
 }
